@@ -1,4 +1,4 @@
-# Version Control System - MERN Stack
+# Version Control System 
 
 This is a full-stack GitHub clone built using the MERN stack (MongoDB, Express.js, React, and Node.js). The project replicates core GitHub functionalities, including repositories, commits, user authentication, and more.
 
